@@ -1,0 +1,33 @@
+Customer Order Analysis/PROJECT 1
+
+
+
+Overview- This first project aims to show the basic understanding in SQL to understand business and customer trends.
+
+
+Tools- SQLite/SQLiteStudio
+
+
+Dataset Used- customer_orders uses 120 rows of customer data.
+
+
+Questions I answer
+
+. Amount of completed orders.
+
+. Exact amount of total revenue.
+
+. Which of the customers is the top spending.
+
+. Dates that customers ordered the most products on.
+
+
+Skills I demonstated on Project one- I demonstrate use of basic SQL functions such as. SELECT, FROM, SUM, AVG, WHERE, COUNT, ORDER BY, GROUP BY. As well as more basic and fundamental data analysis with the ability to report alongside it.
+
+
+
+
+
+
+
+
